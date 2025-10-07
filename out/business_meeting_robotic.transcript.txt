@@ -1,0 +1,17 @@
+manager, good morning, thanks for joining on time.
+ Let's keep this short.
+ How are we progressing on the client dashboard?
+ Team member, good morning.
+ The main feature is in place, and testing is ongoing.
+ We might identify the few bugs in the reporting module, but those should be fixed by tomorrow.
+ Manager, at Stodter here.
+ Are we still on track to deliver the memo by Friday?
+ Team member, yes, the timeline looks realistic.
+ Once the fix is done, I'll run around on testing, and prepare the slides for the client.
+ Manager, perfect.
+ Please also make sure not you impatiently updated.
+ I'll review everything first day after noon so we're ready for the memo.
+ Team member, understood.
+ I'll handle that and confirm once it's done.
+ Manager, great, thanks.
+ A sore from my side today.
