@@ -11,6 +11,7 @@ from pathlib import Path
 
 # ---------- Third-party ----------
 from faster_whisper import WhisperModel
+#Iam happy
 
 # ---------- Utils ----------
 def have_ollama() -> bool:
