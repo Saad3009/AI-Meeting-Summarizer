@@ -142,7 +142,8 @@ def main():
         max_chars=args.max_chars,
         timeout=args.timeout,
     )
-    md_final = re.sub(r"(?s)^Thinking\.\.\..*?\.{3}done thinking\.\n*", "", md_text) #Remove Text from Thinking... to ...done thinking
+    #Remove Text from Thinking... to ...done thinking
+    md_final = re.sub(r"(?s)^Thinking\.\.\..*?\.{3}done thinking\.\n*", "", md_text) 
 
     (Path(args.outdir) / f"{stem}.md").write_text(md_final, encoding="utf-8")
     print("Markdown saved.")

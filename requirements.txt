@@ -1,0 +1,5 @@
+faster-whisper>=0.7.0
+
+# Notes:
+# - This project calls the Ollama CLI (https://ollama.com/) which is installed separately — it's not a Python package.
+# - System binaries required: ffmpeg (for audio decoding) and Ollama (CLI). Install these with your platform package manager and ensure they are on PATH.
